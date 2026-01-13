@@ -21,7 +21,7 @@ chatBot("I need support");
 ## How it works
 
 - User input is converted to lowercase for case-insensitive matching.
-- The "function chatBot()" checks for specific keywords in order and returns a corresponding response.
+- The `chatBot()` function checks for specific keywords in order and returns a corresponding response.
 - If no keywords match, a default message is returned.
 
 ## Extending with AI
